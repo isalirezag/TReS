@@ -8,6 +8,6 @@
  
  
  <p align="center">
-  <img src="https://user-images.githubusercontent.com/12434910/128640689-046cd64a-f485-49e3-ac87-537de27f8eb6.jpg">
+  <img src="https://user-images.githubusercontent.com/12434910/128640799-f88f27b7-f766-4309-ba11-929659fc2eb7.png">
 </p>
  
