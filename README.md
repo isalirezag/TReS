@@ -1,5 +1,5 @@
 <div align="center">
-  No-Reference Image Quality Assessment via <br /> Transformers, Relative Ranking,and Self-Consistency
+  No-Reference Image Quality Assessment via <br /> Transformers, Relative Ranking, and Self-Consistency
 </div>
 
 <br />
