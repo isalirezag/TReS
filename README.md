@@ -1,7 +1,9 @@
+[No-Reference Image Quality Assessment via Transformers, Relative Ranking, and Self-Consistency](https://arxiv.org/pdf/2108.06858.pdf)
+
 <div align="center">
-  No-Reference Image Quality Assessment via <br /> Transformers, Relative Ranking, and Self-Consistency
+  The code for our paper will be available soon.
+
 </div>
-The code for our paper will be available soon.
 <br />
 <br />
 
