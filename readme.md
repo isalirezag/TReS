@@ -156,7 +156,7 @@ fblive
 
 
 ## Training
-The training scrips are provided in the `run.sh`.
+The training scrips are provided in the `run.sh`. Please change the paths correspondingly. 
 Please note that to achive the same performace the parameters should match the ones in the `run.sh` files.
 
 
