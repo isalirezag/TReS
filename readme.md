@@ -1,6 +1,6 @@
 <div align="center">This repository contains the implementation for the paper:<br />
 
-[No-Reference Image Quality Assessment via Transformers, Relative Ranking, and Self-Consistency (WACV 2022)](https://arxiv.org/pdf/2108.06858.pdf) 
+[No-Reference Image Quality Assessment via Transformers, Relative Ranking, and Self-Consistency (WACV 2022)](https://arxiv.org/pdf/2108.06858.pdf) [Video](https://www.youtube.com/watch?v=Ph3TIqiIN34&ab_channel=AlirezaGolestaneh)
 </div>
 
 
