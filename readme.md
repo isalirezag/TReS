@@ -23,7 +23,7 @@ after installing the virtuall env you should be able to run `python -c "import t
 
 
 ## Datasets
-In this work we use 7 datasets for evaluation ([LIVE](https://live.ece.utexas.edu/research/quality/subjective.htm), [CSIQ](http://vision.eng.shizuoka.ac.jp/mod/page/view.php?id=23), [TID2013](http://www.ponomarenko.info/tid2013.htm), [KADID10K](http://database.mmsp-kn.de/kadid-10k-database.html), [CLIVE](https://live.ece.utexas.edu/research/ChallengeDB/), [KonIQ](http://database.mmsp-kn.de/koniq-10k-database.html), [LIVEFB](https://baidut.github.io/PaQ-2-PiQ/))
+In this work we use 7 datasets for evaluation ([LIVE](https://live.ece.utexas.edu/research/quality/subjective.htm), [CSIQ](https://s2.smu.edu/~eclarson/csiq.html), [TID2013](http://www.ponomarenko.info/tid2013.htm), [KADID10K](http://database.mmsp-kn.de/kadid-10k-database.html), [CLIVE](https://live.ece.utexas.edu/research/ChallengeDB/), [KonIQ](http://database.mmsp-kn.de/koniq-10k-database.html), [LIVEFB](https://baidut.github.io/PaQ-2-PiQ/))
 
 To start training please make sure to follow the correct folder structure  for each of the aformentioned datasets as provided bellow:
 
