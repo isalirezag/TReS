@@ -7,7 +7,10 @@
  <br />
   <br />
    <br />
-   
+
+<a href="https://replicate.com/arielreplicate/tres_iqa"><img src="https://replicate.com/arielreplicate/tres_iqa/badge"></a>
+
+
 ![wacv2021](https://user-images.githubusercontent.com/12434910/137831770-dd5d17da-fe83-431e-ac86-bebbe2810820.png)
 
 
